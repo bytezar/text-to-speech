@@ -1,0 +1,10 @@
+# Call: TextToSpeech.exe "sample-3.txt" --index-format 3 --index-separator "-"
+
+***** Lorem ipsum-012.mp3 *****
+Eget velit aliquet sagittis id consectetur purus ut faucibus pulvinar.
+Consectetur adipiscing elit duis tristique. Aliquet enim tortor at auctor urna nunc. Feugiat nibh sed pulvinar proin gravida.
+
+***** Lorem ipsum-112.mp3 *****
+Netus et malesuada fames ac turpis. Phasellus vestibulum lorem sed risus ultricies.
+Tempor commodo ullamcorper a lacus vestibulum sed arcu. Sit amet tellus cras adipiscing enim eu turpis egestas.
+Dui nunc mattis enim ut tellus elementum sagittis. Ut eu sem integer vitae justo eget.

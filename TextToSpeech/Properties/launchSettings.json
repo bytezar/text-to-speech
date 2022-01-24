@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "TextToSpeech": {
+      "commandName": "Project"
+    }
+  }
+}

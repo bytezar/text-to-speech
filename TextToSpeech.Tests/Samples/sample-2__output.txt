@@ -1,0 +1,36 @@
+# Call: TextToSpeech.exe "sample-2.txt" --index-format 3 --index-separator "-"
+
+***** Lorem ipsum-001.mp3 *****
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Nunc sed augue lacus viverra vitae. Enim nunc faucibus a pellentesque sit.
+
+***** Lorem ipsum-002.mp3 *****
+Odio eu feugiat pretium nibh. Maecenas volutpat blandit aliquam etiam erat velit.
+Convallis convallis tellus id interdum velit laoreet id donec.
+Enim eu turpis egestas pretium aenean pharetra magna ac. Lorem ipsum dolor sit amet consectetur adipiscing.
+
+***** Lorem ipsum-011.mp3 *****
+Mauris in aliquam sem fringilla ut. Nisi scelerisque eu ultrices vitae. Eget lorem dolor sed viverra ipsum nunc aliquet bibendum enim.
+
+***** Lorem ipsum-012.mp3 *****
+Consectetur adipiscing elit duis tristique. Aliquet enim tortor at auctor urna nunc. Feugiat nibh sed pulvinar proin gravida.
+Eget velit aliquet sagittis id consectetur purus ut faucibus pulvinar.
+
+***** Lorem ipsum-101.mp3 *****
+Fames ac turpis egestas sed. Pellentesque elit eget gravida cum.
+
+***** Lorem ipsum-111.mp3 *****
+Penatibus et magnis dis parturient montes nascetur ridiculus mus.
+
+***** Lorem ipsum-999.mp3 *****
+Tempor commodo ullamcorper a lacus vestibulum sed arcu. Sit amet tellus cras adipiscing enim eu turpis egestas.
+Dui nunc mattis enim ut tellus elementum sagittis. Ut eu sem integer vitae justo eget.
+
+***** Lorem ipsum-113.mp3 *****
+Risus in hendrerit gravida rutrum quisque non tellus orci ac. Quis hendrerit dolor magna eget.
+
+***** Lorem ipsum-121.mp3 *****
+Egestas congue quisque egestas diam in arcu cursus. Tristique senectus et netus et malesuada fames.
+
+***** Lorem ipsum-122.mp3 *****
+Ac tincidunt vitae semper quis lectus nulla at. Malesuada nunc vel risus commodo viverra maecenas accumsan.
