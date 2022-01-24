@@ -50,6 +50,8 @@
                 {
                     response.AudioContent.WriteTo(output);
                 }
+
+                Console.WriteLine($"Successfully synthesized mp3 file:\r\n{outputPath}");
             }
             catch (Exception ex)
             {
